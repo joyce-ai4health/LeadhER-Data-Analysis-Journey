@@ -13,7 +13,7 @@ Get completely comfortable with Excel — data entry, formatting, and basic form
 - [x] Completed
 
 ### Section 3: Working with Worksheets & Workbooks
-- [ ] Not Started
+- [x] Completed
 
 ### Section 4: Foundational Formulas & Functions
 - [ ] Not Started
@@ -23,7 +23,7 @@ Get completely comfortable with Excel — data entry, formatting, and basic form
 
 ## Progress
 
-**2 / 5 sections completed**
+**3 / 5 sections completed**
 
 ## Skills Covered
 
