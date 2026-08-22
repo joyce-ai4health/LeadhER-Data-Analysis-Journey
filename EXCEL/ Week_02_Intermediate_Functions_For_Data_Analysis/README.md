@@ -2,29 +2,24 @@
 
 ## Overview
 
-Build intermediate Excel skills for data analysis — lookup functions, Excel Tables, data cleaning, text functions, and conditional formatting.
+Build real analytical muscle — lookups, data cleaning, Excel Tables, and conditional formatting.
 
 ## Sections
 
-### Section 1: Intermediate Functions for Data Analysis
+### Section 6: Intermediate Functions And Data Analysis
+- [x] Completed
 
-* [x] Completed
+### Section 7: Lookup & Reference Functions
+- [ ] Not Started
 
-### Section 2: Lookup & Reference Functions
+### Section 8: Excel Tables
+- [ ] Not Started
 
-* [ ] Not Started
+### Section 9: Data Cleaning & Text Functions
+- [ ] Not Started
 
-### Section 3: Excel Tables
-
-* [ ] Not Started
-
-### Section 4: Data Cleaning & Text Functions
-
-* [ ] Not Started
-
-### Section 5: Conditional Formatting
-
-* [ ] Not Started
+### Section 10: Conditional Formatting
+- [ ] Not Started
 
 ## Progress
 
@@ -32,12 +27,12 @@ Build intermediate Excel skills for data analysis — lookup functions, Excel Ta
 
 ## Skills Covered
 
-* Intermediate Excel functions
-* Lookup and reference functions
-* Excel Tables
-* Data cleaning
-* Text functions
-* Conditional formatting
+- Intermediate Excel functions
+- Lookup and reference functions
+- Excel Tables
+- Data cleaning
+- Text functions
+- Conditional formatting
 
 ## Practice & Evidence
 
@@ -46,4 +41,3 @@ Practice files, screenshots, exercises, and assessments will be added to the rel
 ## Reflection
 
 To be updated as I progress through Week 2.
-
