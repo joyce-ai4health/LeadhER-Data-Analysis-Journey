@@ -16,14 +16,14 @@ Get completely comfortable with Excel — data entry, formatting, and basic form
 - [x] Completed
 
 ### Section 4: Foundational Formulas & Functions
-- [ ] Not Started
+- [x] Completed
 
 ### Section 5: Organizing & Managing Data
 - [ ] Not Started
 
 ## Progress
 
-**3 / 5 sections completed**
+**4 / 5 sections completed**
 
 ## Skills Covered
 
