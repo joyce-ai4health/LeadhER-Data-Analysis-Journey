@@ -19,11 +19,11 @@ Get completely comfortable with Excel — data entry, formatting, and basic form
 - [x] Completed
 
 ### Section 5: Organizing & Managing Data
-- [ ] Not Started
+- [x] Completed
 
 ## Progress
 
-**4 / 5 sections completed**
+**5 / 5 sections completed**
 
 ## Skills Covered
 
