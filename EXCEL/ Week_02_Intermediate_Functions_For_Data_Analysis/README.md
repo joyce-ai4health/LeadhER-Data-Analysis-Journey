@@ -10,7 +10,7 @@ Build real analytical muscle — lookups, data cleaning, Excel Tables, and condi
 - [x] Completed
 
 ### Section 7: Lookup & Reference Functions
-- [ ] Not Started
+-  [x] Completed
 
 ### Section 8: Excel Tables
 - [ ] Not Started
@@ -23,7 +23,7 @@ Build real analytical muscle — lookups, data cleaning, Excel Tables, and condi
 
 ## Progress
 
-**1 / 5 sections completed**
+**2 / 5 sections completed**
 
 ## Skills Covered
 
