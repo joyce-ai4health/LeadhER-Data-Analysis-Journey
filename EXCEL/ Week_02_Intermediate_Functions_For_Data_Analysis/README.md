@@ -23,7 +23,7 @@ Build real analytical muscle — lookups, data cleaning, Excel Tables, and condi
 
 ## Progress
 
-**2 / 5 sections completed**
+**3 / 5 sections completed**
 
 ## Skills Covered
 
