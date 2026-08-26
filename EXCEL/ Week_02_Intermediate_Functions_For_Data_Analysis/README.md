@@ -13,7 +13,7 @@ Build real analytical muscle — lookups, data cleaning, Excel Tables, and condi
 -  [x] Completed
 
 ### Section 8: Excel Tables
-- [ ] Not Started
+- [x] Completed
 
 ### Section 9: Data Cleaning & Text Functions
 - [ ] Not Started
