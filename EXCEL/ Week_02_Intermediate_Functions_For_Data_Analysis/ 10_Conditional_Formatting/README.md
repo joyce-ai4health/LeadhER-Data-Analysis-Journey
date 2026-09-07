@@ -1,4 +1,4 @@
-This is **Section 10: Conditional Formatting**, so I’ll organize it in the same Markdown style as Sections 8 and 9. I’ve also cleaned up the wording while keeping what you learned.
+
 
 
 # Section 10: Conditional Formatting
