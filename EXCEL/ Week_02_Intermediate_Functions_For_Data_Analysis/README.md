@@ -16,14 +16,14 @@ Build real analytical muscle — lookups, data cleaning, Excel Tables, and condi
 - [x] Completed
 
 ### Section 9: Data Cleaning & Text Functions
-- [ ] Not Started
+- [x] Completed
 
 ### Section 10: Conditional Formatting
-- [ ] Not Started
+- [x] Completed
 
 ## Progress
 
-** 3 / 5 sections completed**
+** 10 / 10 sections completed**
 
 ## Skills Covered
 
